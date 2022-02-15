@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Syllabus
-type: CourseSection
 uid: c5442cb5-6082-ecee-496e-5b2ac7052a1b
 ---
 
